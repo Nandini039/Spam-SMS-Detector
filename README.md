@@ -7,8 +7,7 @@ An intelligent app designed to detect and block scam or spam SMS messages using 
 - Detects scam/spam SMS messages in real-time
 - Uses NLP and machine learning for classification
 - Simple and user-friendly interface
-- Option to report and flag new suspicious messages
-- Maintains privacy — processes texts locally (optional cloud-based version)
+- Maintains privacy — processes texts locally
 
 ## Screenshots
 
