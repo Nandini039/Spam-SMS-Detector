@@ -17,7 +17,7 @@ An intelligent app designed to detect and block scam or spam SMS messages using 
 ## Technologies Used
 
 - **Backend:** Python
-- **ML Model:** Naive Bayes / Logistic Regression / BERT
+- **ML Model:** Naive Bayes / Logistic Regression 
 - **NLP Library:** NLTK 
 
 
