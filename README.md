@@ -11,7 +11,7 @@ An intelligent app designed to detect and block scam or spam SMS messages using 
 
 ## Screenshots
 
-
+![Image](https://github.com/user-attachments/assets/5a80908c-ba77-4402-95fe-193fd1ccc34c)
 
 ## Technologies Used
 
