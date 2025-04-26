@@ -1,6 +1,7 @@
 # SMS Scam Detection App
 
 An intelligent app designed to detect and block scam or spam SMS messages using machine learning. This tool helps users stay safe from phishing attacks, financial fraud, and malicious links sent via text messages.
+This a online platform where you can check any text either it is Spam Message Text or not. Just enter your text into the Textarea and select algorythm, press SUBMIT button and wait while your data proceds.After proccessing you will see result.
 
 ## Features
 
